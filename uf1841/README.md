@@ -9,9 +9,9 @@ Cada apartado conseguido otorga un punto de la nota final
 5. Utiliza una etiqueta semántica adecuada para darle importancia a la palabra entre exclamaciones de cada texto. 
 6. Se utiliza una propiedad CSS adecuada para separar el contenido del borde de cada texto 
 7. Se utiliza una propiedad CSS adecuada para establecer un borde izquierdo de **8px, sólido** en cada caja 
-8. Cada cajita tiene el color de borde esperado
-9. Cada cajita tiene el color de fondo esperado
-10. Las cajitas estan separadas unas de otras de forma apreciable
+8. Cada cajita tiene el color de borde y fondo esperado
+9. El texto esta perfectamente alineado en el eje vertical de la cajita
+10. Las cajitas estan separadas la misma distancia unas de otras de forma apreciable
 
 ## BONUS NO PUNTUABLE
 Distribuye adecuadamente las propiedades CSS entre las diferentes reglas para repetir el menos número posible. 
