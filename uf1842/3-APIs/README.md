@@ -14,4 +14,4 @@ Además, dispone de un parámetro que permite indicar el número de palabras que
 **Solamente** debes modificar el fichero scripts/request.js . Es una buena idea, sin embargo, que eches un vistazo a cómo está montada la aplicación Web
 
 1. Implementa una llamada a la API para que cada vez que se inicia el juego, se obtenga una palabra aletória
-2. Fíjate que la función _getPuzzle_ tiene un parámetro, que indica el número de palabras a obtener. Usa este parámetro para hacer la petición a la API con el valor de dicha variable. 
+2. Fíjate que la función _getPuzzle_ tiene un parámetro, que indica el número de palabras a obtener. Usa el valor de dicho parámetro para hacer la petición a la API con el número de palabras deseados. 
