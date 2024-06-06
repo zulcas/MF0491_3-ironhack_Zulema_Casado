@@ -4,7 +4,14 @@
 
 body {}
 
-div {}
+a {
+    text-decoration: none;
+    font-weight: 700;
+}
+
+div {
+    width: fit-content;
+}
 
 .danger {}
 

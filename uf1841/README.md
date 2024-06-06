@@ -1,6 +1,6 @@
 # UF1841
 
-Cada apartado conseguido otorga un punto de la nota final. Los 6 primeros apartados son sencillos. Además, si atribuyes adecuadamente las propiedades CSS a cada selector, lo puedes hacer muy rápido
+Cada apartado conseguido otorga un punto de la nota final. Los 6 primeros apartados son sencillos. Además, si atribuyes adecuadamente las propiedades CSS a cada selector, lo puedes hacer muy rápido. No hace falta añadir ningún tag nuevo HTML, salvo para el apartado 1 y 4.
 
 1. Enlazar adecuadament el fichero **style.css** al _index.html_
 2. Cambiar el tipo de letra de todo el _body_ a Verdana
@@ -11,7 +11,7 @@ Cada apartado conseguido otorga un punto de la nota final. Los 6 primeros aparta
 6. Se utiliza una propiedad CSS adecuada para separar el contenido del borde de cada texto (NO uses la propiedad _height_ para ello)
 7. Se utiliza una propiedad CSS adecuada para establecer un **borde izquierdo** de **8px, sólido** en cada caja, con el color de borde esperado.
 9. Las cajitas estan separadas la misma distancia unas de otras de forma apreciable
-10. DIFÍCIL. Situa el icono de _warning_ en la parte superior derecha de la cajita amarilla
+10. DIFÍCIL. Situa el icono de _warning_ en la parte superior derecha de la cajita amarilla. Seguramente debas añadir una nueva regla CSS.
 
 
 
