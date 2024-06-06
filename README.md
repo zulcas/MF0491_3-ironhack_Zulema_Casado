@@ -9,7 +9,7 @@ Puedes modificar el HTML, pero no debería ser necesario.
 4. Crea un contenedor flexible en el selector **.gallery**
 5. Los elementos del contenedor flexible deben apilarse uno sobre otros cuando estamos en móvil 
 6. Los elementos del contenedor flexible siempre estan separados entre ellos **1rem**
-7. Los elementos del contenedor flexible siempre estan alineados en el centro para el main axis y el cross axis
+7. Los elementos del contenedor flexible siempre estan alineados en el centro para _el main axis_
 8. A medida que el contenedor flexible crece, los gatos se van colocando en horizontal uno al lado del otro, siempre que tienen espacio (ver vídeo)
 9. Cuando el viewport crece, queremos ver los gatos más grandes. Crea una _media query_ para que cuando lleguemos al menos a **768px de viewport horizontal**, la propiedad **max-width: 250px** de las imágenes pase a tener valor **350px**
 10. DIFICIL.  Al llegar a un **viewport de 992px horizontal**, los gatos se colocan en un grid de 4 columnas. La primera columna siempre ocupa 4 veces más espacio horizontal disponible que el resto de columnas  (ver vídeo)
