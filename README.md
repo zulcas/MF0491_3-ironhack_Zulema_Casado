@@ -3,7 +3,7 @@
 Normalmente estas funcionalidades se consiguen añadiendo una línea de código en el fichero styles.css, en el selector adecuado. 
 Puedes modificar el HTML, pero no debería ser necesario.
 
-1. Cambia el tamaño de la letra del _header_ para que sea un 50% mayor (1.5rem) el tamaño de la letra establecida en el tag raíz _html_ (root element)
+1. Escribe una etiqueta _title_ adecuada para esta página
 2. Establece un atributo _alt_ adecuado para el gato número 2
 3. Apenas se puede leer bien el texto de la cabecera. Ajusta el color de fondo para conseguir un contraste adeucado (el color original es un azul)
 4. Crea un contenedor flexible en el selector **.gallery**
