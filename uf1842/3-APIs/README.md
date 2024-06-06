@@ -11,6 +11,8 @@ Además, dispone de un parámetro que permite indicar el número de palabras que
 
 ## Funcionalidades deseadas
 
+[Ver vídeo funcionalidades deseadas](https://oscarm.tinytake.com/df/16401cd/thumbnail?type=attachments&version_no=0&file_version_no=0&thumbnail_size=preview)
+
 **Solamente** debes modificar el fichero scripts/request.js . Es una buena idea, sin embargo, que eches un vistazo a cómo está montada la aplicación Web
 
 1. Implementa una llamada a la API para que cada vez que se inicia el juego, se obtenga una palabra aletória
