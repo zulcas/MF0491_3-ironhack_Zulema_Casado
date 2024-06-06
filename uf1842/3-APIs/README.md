@@ -15,3 +15,7 @@ Además, dispone de un parámetro que permite indicar el número de palabras que
 
 1. Implementa una llamada a la API para que cada vez que se inicia el juego, se obtenga una palabra aletória
 2. Fíjate que la función _getPuzzle_ tiene un parámetro, que indica el número de palabras a obtener. Usa el valor de dicho parámetro para hacer la petición a la API con el número de palabras deseados. 
+
+Para probar el último punto, cambia el valor del parámetro de la función en __getPuzzle_ el fichero app.js
+
+`const puzzle = await getPuzzle('3')`
