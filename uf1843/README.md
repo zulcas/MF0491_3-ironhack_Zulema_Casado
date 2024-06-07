@@ -5,11 +5,11 @@ Puedes modificar el HTML, pero no debería ser necesario.
 
 [Ver vídeo resultado esperado](https://oscarm.tinytake.com/df/16403bf/thumbnail?type=attachments&version_no=0&file_version_no=0&thumbnail_size=preview)
 
-1. Escribe una etiqueta _title_ adecuada para esta página
+1. Escribe una etiqueta _title_ adecuada para esta página (¡puedes dejar el icono del gatito!)
 2. Establece un atributo _alt_ adecuado para el gato número 2
 3. Apenas se puede leer bien el texto de la cabecera. Ajusta el color de fondo para conseguir un contraste adeucado (el color original es un azul)
 4. Crea un contenedor flexible en el selector **.gallery**
-5. Los elementos del contenedor flexible deben apilarse uno sobre otros cuando estamos en móvil 
+5. Los elementos del contenedor flexible deben apilarse uno sobre otros cuando estamos en móvil  
 6. Los elementos del contenedor flexible siempre estan separados entre ellos **1rem**
 7. Los elementos del contenedor flexible siempre estan alineados en el centro para _el main axis_
 8. A medida que el contenedor flexible crece, los gatos se van colocando en horizontal uno al lado del otro, siempre que tienen espacio (ver vídeo)

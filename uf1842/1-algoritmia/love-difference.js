@@ -3,6 +3,7 @@
  * 
  * @param {number} age1 Edad usuario 1, siempre un número positivo
  * @param {number} age2 Edad usuario 2, siempre un número positivo
+ * @return {number} La diferencia de edad, siempre un número positivo
  */
 
 function loveDifference(age1, age2) {
@@ -21,3 +22,4 @@ console.log(loveDifference(30, 30)); // Resultado esperado: 0
 // Prueba 4: Diferencia con edades grandes (el amor no tiene edad)
 console.log(loveDifference(100, 80)); // Resultado esperado: 20
 
+// BONUS: Implementa la función en una sola línea
