@@ -14,4 +14,4 @@ Puedes modificar el HTML, pero no debería ser necesario.
 7. Los elementos del contenedor flexible siempre estan alineados en el centro para _el main axis_
 8. A medida que el contenedor flexible crece, los gatos se van colocando en horizontal uno al lado del otro, siempre que tienen espacio (ver vídeo)
 9. Cuando el viewport crece, queremos ver los gatos más grandes. Crea una _media query_ para que cuando lleguemos al menos a **768px de viewport horizontal**, queremos establecer la imagen de fondo _raspitas.jpg_ en todo el **body**
-10. DIFICIL.  Al llegar a un **viewport de 992px horizontal**, los gatos se colocan en un grid de 3 columnas. La primera columna siempre ocupa 3 veces más espacio horizontal disponible que el resto de columnas  (ver vídeo)
+10. DIFICIL.  Al llegar a un **viewport de 992px horizontal**, los gatos se colocan en un grid de 3 columnas. La primera columna con la foto del gato siempre debe ocupar 3 veces más espacio horizontal disponible que el resto de columnas  (ver vídeo)
