@@ -2,7 +2,9 @@
     box-sizing: border-box;
 }
 
-body {}
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 
 a {
     text-decoration: none;
@@ -11,12 +13,37 @@ a {
 
 div {
     width: fit-content;
+    font-size: 1.2rem;
+    padding: 1rem;
+    margin-bottom: 2rem;
 }
 
-.danger {}
+.danger {
+    background-color: #FFDDDD;
+    border-left: 8px solid #F44336;
+}
 
-.success {}
+.success {
+    background-color: #CAE9CA;
+    border-left: 8px solid #04AA6D;
+}
 
-.info {}
+.info {
+    background-color: #D8E3ED;
+    border-left: 8px solid #2196F3;
+}
 
-.warning {}
+.warning {
+    background-color: #F0F0C0;
+    border-left: 8px solid #FFEB3B;
+    position: relative;
+    /* display: flex;
+    align-items: flex-start;
+    padding-right: 0; */
+}
+
+img{
+   position:absolute;
+   right: -10px;
+   top: -10px;
+}

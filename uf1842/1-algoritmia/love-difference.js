@@ -7,6 +7,13 @@
  */
 
 function loveDifference(age1, age2) {
+    if(age1>=age2){
+        return age1-age2;
+    }
+    else{
+        return age2-age1;
+    }
+    //BONUS: return Math.abs(age1-age2); --> con valor absoluto
 
 }
 
